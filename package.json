@@ -1,6 +1,6 @@
 {
   "name": "orz.ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Zero-Overhead Full-Stack Compiler - A TypeScript framework that eliminates network boundaries",
   "type": "module",
   "main": "dist/index.js",
